@@ -51,6 +51,9 @@ collections:
   teamprojects:
     output: true
     permalink: /teamprojects/:name
+  soloprojects:
+    output: true
+    permalink: /soloprojects/:name
 
 
 ### Defaults for collections ###
@@ -60,6 +63,11 @@ defaults:
       type: "teamprojects"
     values:
       layout: "page"
+  - scope:
+        path: ""
+        type: "soloprojects"
+      values:
+        layout: "page"      
 
 
 ### Exclude from processing ###
