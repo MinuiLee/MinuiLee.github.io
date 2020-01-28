@@ -48,9 +48,9 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  projects:
+  teamprojects:
     output: true
-    permalink: /projects/:name
+    permalink: /teamprojects/:name
 
 
 ### Defaults for collections ###
