@@ -11,15 +11,15 @@ Hello. I'm Minui Lee and I am a software engineer.<br>
 Thanks for visiting :}
 
 <div class="row">
-{% include about/skills.html title="Programming Languages" source=site.data.programming-skills %}
+{% include about/skills.html title="Programming Languages" source=site.docs.data.programming-skills %}
 </div>
 
 <div class="row">
-{% include about/skills.html title="Softwares" source=site.data.softwares %}
+{% include about/skills.html title="Softwares" source=site.docs.data.softwares %}
 </div>
 
 <div class="row">
-{% include about/skills.html title="Languages" source=site.data.languages %}
+{% include about/skills.html title="Languages" source=site.docs.data.languages %}
 </div>
 
 <div class="row">
