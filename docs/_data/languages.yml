@@ -1,0 +1,7 @@
+- name: Korean
+  percentage: 100
+  color: info
+
+- name: English
+  percentage: 75
+  color: success

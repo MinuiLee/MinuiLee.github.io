@@ -1,14 +1,14 @@
 ---
-title: A better Hello World
-tags: [Software Development]
+title: Its Minui World
+tags: [Nothing, Sample]
 style: fill
 color: dark
-description: A different “hello world” to demonstrate language features better.
+description: This is just AAAAA sample
 ---
 
-Source: [RICO STA. CRUZ](https://ricostacruz.com/til/a-better-hello-world)
+Source: [How to insert url](https://ricostacruz.com/til/a-better-hello-world)
 
-The “Hello world” program is usually the first introduction to any programming language. It looks like this in the C programming language:
+Write something
 
 ```c
 /* hello.c */
@@ -20,16 +20,12 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-It demonstrates the minimum amount you need to write a C program. In more modern languages however, this example isn’t as useful anymore. Here’s the same example in Python:
-
 ```python
 # hello.py
 print "Hello, world!"
 ```
 
-## A better hello world
-
-In today’s world of more succint programming languages, we need a different “hello world” to demonstrate language features better. Here’s what I propose:
+## Something BOLD
 
 ```
 // hello.js
@@ -41,11 +37,5 @@ const message = getGreeting('world')
 console.log(message)
 ```
 
-This simple example demonstrates a few more things than printing strings:
-
-- How to write a function with an argument
-- Returning values from functions
-- How to use variables
-- The naming convention for functions (camelCase versus snake_case)
-- String concatenation
-- Comments
+- One
+- Two
