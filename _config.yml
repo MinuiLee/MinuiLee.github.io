@@ -50,25 +50,19 @@ permalink: /blog/:title
 collections:
   teamprojects:
     output: true
-    permalink: /teamprojects/:name
+    permalink: /projects/:name
   soloprojects:
     output: true
-    permalink: /soloprojects/:name
+    permalink: /projects/:name
 
 
 ### Defaults for collections ###
 defaults:
   - scope:
       path: ""
-      type: "teamprojects"
+      type: "projects"
     values:
       layout: "page"
-  - scope:
-        path: ""
-        type: "soloprojects"
-      values:
-        layout: "page"      
-
 
 ### Exclude from processing ###
 exclude:
