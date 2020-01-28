@@ -50,10 +50,10 @@ permalink: /blog/:title
 collections:
   teamprojects:
     output: true
-    permalink: /projects/:name
+    permalink: /teamprojects/:name
   soloprojects:
     output: true
-    permalink: /projects/:name
+    permalink: /soloprojects/:name
 
 
 ### Defaults for collections ###
