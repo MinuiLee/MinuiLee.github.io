@@ -60,7 +60,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "teamprojects"
+      type: "projects"
     values:
       layout: "page"
 
