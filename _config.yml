@@ -57,7 +57,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "teamprojects"
     values:
       layout: "page"
 
