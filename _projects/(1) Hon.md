@@ -20,6 +20,6 @@ Language: C++
 Team size: 4
 
 
-Sep. 2018 - Jun. 2019
+Sept 2018 - June 2019
 
 Hon is a 2D platform action game. The player, ghost, has to fight and explore to earn souls in a haunted castle where every object is alive. Use different attack motions and explore one giant map to collect enough souls for his rebirth and be careful of losing them since it is also his life. 
