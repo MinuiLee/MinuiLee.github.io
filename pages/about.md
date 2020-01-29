@@ -25,4 +25,9 @@ Hello. I'm Minui Lee and currently a junior at Digipen institute of technology.<
 {% include about/timeline.html %}
 </div>
 
+<br/>
+<br/>
+
 {% include elements/button.html link="https://minuilee.github.io/download/MinuiLee_Resume.pdf" text="Download RESUME as pdf" block=true %}
+
+<br/>
