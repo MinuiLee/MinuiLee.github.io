@@ -5,4 +5,4 @@ image: http://bit.ly/2t2J5FG
 category: solo
 ---
 
-test
+SOLO PROJECT YEAH$
