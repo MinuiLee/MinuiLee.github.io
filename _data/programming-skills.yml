@@ -4,12 +4,4 @@
 
 - name: C#
   percentage: 60
-  color:
-
-- name: Javascript
-  percentage: 40
-  color: dark
-
-- name: Python
-  percentage: 20
   color: dark
