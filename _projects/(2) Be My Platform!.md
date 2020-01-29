@@ -2,6 +2,7 @@
 name: Be My Platform!
 tools: [2D, Platformer]
 image: http://bit.ly/2uwJpNe
+category: team
 ---
 
 # Be My Platform
