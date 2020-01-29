@@ -51,10 +51,6 @@ collections:
   teamprojects:
     output: true
     permalink: /teamprojects/:name
-  soloprojects:
-    output: true
-    permalink: /soloprojects/:name
-
 
 ### Defaults for collections ###
 defaults:
