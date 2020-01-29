@@ -24,12 +24,9 @@
 {%- else -%}
   {%- assign post_url = post.url | relative_url -%}
 {%- endif -%}
-
+    
 <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ post_url }}" class="post card {{ card_style }}">
-   {%- if post_img -%}
-    <img id="{{ post.title }}-img" class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}" />
-    {%- endif -%}
     <div class="card-body {{ text_style }}">
       <h3 class="card-title">{{ post.title }}</h3>
       <p class="card-text">
@@ -44,6 +41,9 @@
         {{ post.content | truncatewords: 25, "<small><i>  read more...</i></small>" }}
         {%- endif -%}
       </p>
+    </div>
+    <div class="card-footer {{ text_style }}">
+      {{ post.date | date_to_long_string }}
     </div>
   </a>
 </div>

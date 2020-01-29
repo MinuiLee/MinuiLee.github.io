@@ -51,12 +51,16 @@ collections:
   teamprojects:
     output: true
     permalink: /teamprojects/:name
+  soloprojects:
+    output: true
+    permalink: /soloprojects/:name
+
 
 ### Defaults for collections ###
 defaults:
   - scope:
       path: ""
-      type: "teamprojects"
+      type: "soloprojects" or "teamprojects"
     values:
       layout: "page"
 
