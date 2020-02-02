@@ -37,8 +37,14 @@ weight: 7
     recognition.onresult = function(event) {
         var last = event.results.length - 1;
         var command = event.results[last][0].transcript;
+        var toSpeak;
 
-        Speak(command);
+        if(comman.toLowerCase() === 'what is your name' || comman.toLowerCase() === 'who are you')
+        	toSpeak = 'My name is minui lee'
+        else
+        	toSpeak = 'Please. Check out the list below for available questions. Thank you.'
+        
+        Speak(toSpeak);
     };
 
     recognition.onspeechend = function() {
@@ -61,12 +67,13 @@ weight: 7
             listItem.setAttribute('data-name', voice.name);
         });
 
-        var toSpeak = new SpeechSynthesisUtterance(inputText.toLowerCase());
+        var toSpeak = new SpeechSynthesisUtterance(inputText);
         voices.forEach((voice) => {
             if (voice.name === 'Google US English') {
                 toSpeak.voice = voice;
             }
         });
+
         synth.speak(toSpeak);
     }
 </script>
