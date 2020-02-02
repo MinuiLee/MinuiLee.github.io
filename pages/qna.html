@@ -38,9 +38,7 @@ weight: 7
         var last = event.results.length - 1;
         var command = event.results[last][0].transcript;
 
-        if(command.toLowerCase() === 'what is your favorite')
-        	Speak('I can\'t pick one')
-        else if(command.toLowerCase() === 'what is your name')
+        if(command.toLowerCase() === 'what is your name')
         	Speak('My name is minui lee')
         else if(command.toLowerCase() === 'where are you from')
         	Speak('I\' from south korea')
@@ -50,7 +48,7 @@ weight: 7
         	Speak('animals, especially dogs. sushi, games and also like to sleep')
         else if(command.toLowerCase() === 'hello' || command.toLowerCase() === 'hi')
         	Speak('Hello. Nice to meet you')
-        else if(command.toLowerCase() === 'who are you')
+        else if(command.toLowerCase() === 'who are you' || command.toLowerCase() === 'tell me about yourself')
         	Speak('My name is Minui Lee. I am a programmer. Nice to meet you.')
         else
         	Speak('Please. Check out the list below for available questions. Thank you.')
