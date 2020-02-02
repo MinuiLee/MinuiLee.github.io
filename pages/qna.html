@@ -37,14 +37,11 @@ weight: 7
     recognition.onresult = function(event) {
         var last = event.results.length - 1;
         var command = event.results[last][0].transcript;
-        var toSpeak;
 
         if(comman.toLowerCase() === 'what is your name' || comman.toLowerCase() === 'who are you')
-        	toSpeak = 'My name is minui lee'
+        	Speak('My name is minui lee')
         else
-        	toSpeak = 'Please. Check out the list below for available questions. Thank you.'
-        
-        Speak(toSpeak);
+        	Speak('Please. Check out the list below for available questions. Thank you.')
     };
 
     recognition.onspeechend = function() {
