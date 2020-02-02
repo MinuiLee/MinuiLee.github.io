@@ -38,8 +38,14 @@ weight: 7
         var last = event.results.length - 1;
         var command = event.results[last][0].transcript;
 
-        if(comman.toLowerCase() === 'what is your name' || comman.toLowerCase() === 'who are you')
+        if(command.toLowerCase() === 'what is your name' || command.toLowerCase() === 'who are you')
         	Speak('My name is minui lee')
+        else if(command.toLowerCase() === 'where are you from')
+        	Speak('I am from south korea')
+        else if(command.toLowerCase() === 'how old are you')
+        	Speak('I am 22 years old')
+        else if(command.toLowerCase() === 'what do you like')
+        	Speak('animals, especially dogs. sushi, games and also like to sleep')
         else
         	Speak('Please. Check out the list below for available questions. Thank you.')
     };
