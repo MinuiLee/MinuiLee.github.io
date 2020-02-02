@@ -30,6 +30,10 @@ weight: 7
     var synth = window.speechSynthesis;
     var voices = [];
 
+	document.querySelector('#mic').addEventListener('click', function() {
+        recognition.start();
+    });
+
     recognition.onresult = function(event) {
         var last = event.results.length - 1;
         var command = event.results[last][0].transcript;
@@ -45,15 +49,10 @@ weight: 7
         message.textContent = 'Error occurred in recognition: ' + event.error;
     }
 
-    document.querySelector('#mic').addEventListener('click', function() {
-        recognition.start();
-
-    });
-
     function Speak(inputText) {
-        if (speechSynthesis !== undefined) {
-            speechSynthesis.onvoiceschanged = PopulateVoices;
-        }
+        //if (speechSynthesis !== undefined) {
+        //    speechSynthesis.onvoiceschanged = PopulateVoices;
+        //}
         voices = synth.getVoices();
         voices.forEach((voice) => {
             var listItem = document.createElement('option');
