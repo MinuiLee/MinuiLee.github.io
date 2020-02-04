@@ -10,6 +10,7 @@ category: team
 {% include elements/video.html id="nRFadYxsSpw" %}
 
 {% capture carousel_images %}
+http://bit.ly/37YVXfd
 http://bit.ly/2v2NzwI
 http://bit.ly/2Sh0Zgy
 http://bit.ly/2vL5yba
