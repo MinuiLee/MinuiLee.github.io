@@ -9,11 +9,26 @@ category: team
 
 {% include elements/video.html id="nRFadYxsSpw" %}
 
+{% capture carousel_images %}
+http://bit.ly/2v2NzwI
+http://bit.ly/2Sh0Zgy
+http://bit.ly/2vL5yba
+http://bit.ly/2un0OIz
+http://bit.ly/371k0J4
+http://bit.ly/2tsB4tJ
+{% endcapture %}
+{% include elements/carousel.html %}
+
 >Engine: Given engine
+
 >Genre: Action
+
 >Platform: PC
+
 >Language: C++
+
 >Team size: 3
+
 >Mar 2018 - June 2018
 
 <br/>

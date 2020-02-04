@@ -21,13 +21,10 @@ http://bit.ly/36Vu7ze
 
 >Engine: Custom Engine
 
-<br/> 
-
 >Genre: Action
 
-<br/> 
-
 >Platform: PC
+
 >Language: C++
 
 >Team size: 4
