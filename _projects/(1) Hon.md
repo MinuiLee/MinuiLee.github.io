@@ -11,19 +11,27 @@ category: team
 
 {% capture carousel_images %}
 http://bit.ly/36V6BlF
-http://bit.ly/2OrNYzn
-http://bit.ly/36Vu7ze
-http://bit.ly/2S0xjW6
 http://bit.ly/2v1aTuG
+http://bit.ly/2OrNYzn
+http://bit.ly/2S0xjW6
+http://bit.ly/36Vu7ze
 
 {% endcapture %}
 {% include elements/carousel.html %}
 
 >Engine: Custom Engine
+
+<br/> 
+
 >Genre: Action
+
+<br/> 
+
 >Platform: PC
 >Language: C++
+
 >Team size: 4
+
 >Sept 2018 - June 2019
 
 
