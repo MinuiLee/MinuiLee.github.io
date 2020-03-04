@@ -1,17 +1,17 @@
 ---
 name: Minotes
 tools: [C#, Windows forms]
-image: http://bit.ly/3cxQyOM
+image: http://bit.ly/2VRsiRI
 category: solo
 ---
 
 {% capture carousel_images %}
-http://bit.ly/3cxQyOM
-http://bit.ly/3athrBH
-http://bit.ly/2IjiiJ5
-http://bit.ly/2InRkQs
-http://bit.ly/32RCBXF
-http://bit.ly/38pYTkg
+http://bit.ly/2VRsiRI
+http://bit.ly/2wqgOKC
+http://bit.ly/3au3WBS
+http://bit.ly/2VLK3lu
+http://bit.ly/39pporw
+http://bit.ly/3cpgv30
 {% endcapture %}
 {% include elements/carousel.html %}
 
@@ -28,9 +28,3 @@ http://bit.ly/38pYTkg
 - Always on top
 - Dark mode
 - Different note colors
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/89DjKQp/min1.png" alt="min1" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/47sp2C9/min2.png" alt="min2" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hChSdpk/min4.png" alt="min4" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/BZFfpBV/min5.png" alt="min5" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/r2KgR0b/mind3.png" alt="mind3" border="0"></a>
