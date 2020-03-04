@@ -1,12 +1,15 @@
 ---
 name: Minotes
 tools: [C#, Windows forms]
-image: http://bit.ly/2vDp7m9
+image: http://bit.ly/3cxQyOM
 category: solo
 ---
 
-#Minotes
+http://bit.ly/3cxQyOM
+
+# Minotes
 [Download setup file](http://bit.ly/3cp62Vg)
+
 
 >Language: C#
 >Tool: Windows forms
