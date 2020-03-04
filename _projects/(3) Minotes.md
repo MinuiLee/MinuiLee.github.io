@@ -5,13 +5,15 @@ image: http://bit.ly/3cxQyOM
 category: solo
 ---
 
-http://bit.ly/3cxQyOM
+![alt text](http://bit.ly/3cxQyOM "Minotes Icon")
+
 
 # Minotes
 [Download setup file](http://bit.ly/3cp62Vg)
 
 
 >Language: C#
+
 >Tool: Windows forms
 
 >Features:
