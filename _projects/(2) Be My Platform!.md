@@ -5,7 +5,7 @@ image: http://bit.ly/2uwJpNe
 category: team
 ---
 
-<a href="/assets/images/test.png"><img src="/assets/images/test.pngg"></a>
+<a href="/assets/images/test.png"><img src="/assets/images/test.png"></a>
 
 # Be My Platform
 
