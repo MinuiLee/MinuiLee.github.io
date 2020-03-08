@@ -5,6 +5,8 @@ image: http://bit.ly/2uwJpNe
 category: team
 ---
 
+![alt text](https://raw.githubusercontent.com/minuilee/minuilee.guthub.io/master/assets/images/test.png)
+
 # Be My Platform
 
 {% include elements/video.html id="nRFadYxsSpw" %}
