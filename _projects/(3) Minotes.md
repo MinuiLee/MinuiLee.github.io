@@ -16,7 +16,7 @@ http://bit.ly/3cpgv30
 {% include elements/carousel.html %}
 
 # Minotes
-[Download setup file](http://bit.ly/3cp62Vg)
+{% include elements/button.html link="http://bit.ly/3cp62Vg" text="Download" %}
 
 >Language: C#
 
@@ -24,7 +24,7 @@ http://bit.ly/3cpgv30
 
 >Features:
 - Basic sticky note features(write, edit, remove and save)
-- Run at Startup on a computer
+- Run at startup on a computer
 - Always on top
 - Dark mode
 - Different note colors
