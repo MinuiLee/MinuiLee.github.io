@@ -5,7 +5,7 @@ image: http://bit.ly/2uwJpNe
 category: team
 ---
 
-![alt text](https://raw.githubusercontent.com/minuilee/minuilee.guthub.io/master/assets/images/test.png)
+<a href="/assets/images/test.png"><img src="/assets/images/test.pngg"></a>
 
 # Be My Platform
 
