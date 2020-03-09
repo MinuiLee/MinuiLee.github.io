@@ -11,7 +11,7 @@ category: team
 {% include elements/video.html id="nRFadYxsSpw" %}
 
 {% capture carousel_images %}
-<a href="/assets/images/BeMyPlatform/BMP1.png"><img src="/assets/images/BeMyPlatform/BMP1.png"></a>
+"/assets/images/BeMyPlatform/BMP1.png"
 <a href="/assets/images/BeMyPlatform/BMP2.png"><img src="/assets/images/BeMyPlatform/BMP2.png"></a>
 <a href="/assets/images/BeMyPlatform/BMP3.png"><img src="/assets/images/BeMyPlatform/BMP3.png"></a>
 <a href="/assets/images/BeMyPlatform/BMP4.png"><img src="/assets/images/BeMyPlatform/BMP4.png"></a>
