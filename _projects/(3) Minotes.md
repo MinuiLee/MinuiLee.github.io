@@ -6,13 +6,12 @@ category: solo
 ---
 
 {% capture carousel_images %}
-<a href="/assets/images/Minotes/Minotes1.png"><img src="/assets/images/Minotes/Minotes1.png"></a>
-<a href="/assets/images/Minotes/Minotes2.png"><img src="/assets/images/Minotes/Minotes2.png"></a>
-<a href="/assets/images/Minotes/Minotes3.png"><img src="/assets/images/Minotes/Minotes3.png"></a>
-<a href="/assets/images/Minotes/Minotes4.png"><img src="/assets/images/Minotes/Minotes4.png"></a>
-<a href="/assets/images/Minotes/Minotes5.png"><img src="/assets/images/Minotes/Minotes5.png"></a>
-<a href="/assets/images/Minotes/Minotes6.png"><img src="/assets/images/Minotes/Minotes6.png"></a>
-
+/assets/images/Minotes/Minotes1.png
+/assets/images/Minotes/Minotes2.png
+/assets/images/Minotes/Minotes3.png
+/assets/images/Minotes/Minotes4.png
+/assets/images/Minotes/Minotes5.png
+/assets/images/Minotes/Minotes6.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
