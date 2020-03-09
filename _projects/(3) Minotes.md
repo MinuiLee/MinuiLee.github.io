@@ -21,7 +21,7 @@ category: solo
 ##### Language: C\#
 ##### Tool: Windows forms
 
-</br>
+<br/>
 
 ##### Features:
 - Basic sticky note features(write, edit, remove and save)
