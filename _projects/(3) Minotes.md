@@ -18,11 +18,11 @@ category: solo
 # Minotes
 {% include elements/button.html link="http://bit.ly/3cp62Vg" text="Download" %}
 
->Language: C#
+Language: C#
 
->Tool: Windows forms
+Tool: Windows forms
 
->Features:
+Features:
 - Basic sticky note features(write, edit, remove and save)
 - Run at startup on a computer
 - Always on top
