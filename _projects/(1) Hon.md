@@ -19,12 +19,12 @@ category: team
 {% endcapture %}
 {% include elements/carousel.html %}
 
-Engine: Custom Engine<br/> 
-Genre: Action<br/> 
-Platform: PC<br/> 
-Language: C++<br/> 
-Team size: 4<br/> 
-Sept 2018 - June 2019
+#### Engine: Custom Engine 
+#### Genre: Action
+#### Platform: PC
+#### Language: C++
+#### Team size: 4
+#### Sept 2018 - June 2019
 
 <br/> 
 
