@@ -23,7 +23,7 @@ category: solo
 
 </br>
 
-#####Features:
+##### Features:
 - Basic sticky note features(write, edit, remove and save)
 - Run at startup on a computer
 - Always on top

@@ -1,7 +1,7 @@
 ---
 name: Speech Assistant
 tools: [Python, JavaScript]
-image: "/assets/images/Minotes/MinotesMain.png"
+image: "/assets/projects/SpeechAssistant/SpeechAssistantMain.png"
 category: solo
 ---
 
