@@ -21,11 +21,11 @@ category: team
 {% endcapture %}
 {% include elements/carousel.html %}
 
-Engine: Given engine
-Genre: Action
-Platform: PC
-Language: C++
-Team size: 3
+Engine: Given engine<br/> 
+Genre: Action<br/> 
+Platform: PC<br/> 
+Language: C++<br/> 
+Team size: 3<br/> 
 Mar 2018 - June 2018
 
 <br/>
