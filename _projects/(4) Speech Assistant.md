@@ -8,13 +8,13 @@ category: solo
 # Speech Assistant
 
 ##### Language: Python<br/> 
-{% include elements/button.html link="\assets\exe\minui_assistant.exe" text="Download" %}
+{% include elements/button.html link="\assets\projects\SpeechAssistant\minui_assistant.exe" text="Download" %}
 
 
-</br>
-</br>
+<br/>
+<br/>
 
 
 ##### Language: JavaScript<br/> 
-{% include elements/button.html link="\pages\qna.html" text="Download" %}
+{% include elements/button.html link="https://minuilee.github.io/QNA" text="Run program" %}
 

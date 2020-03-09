@@ -1,7 +1,7 @@
 ---
 name: Be My Platform!
 tools: [2D, Platformer]
-image: "/assets/images/BeMyPlatform/BMPMain.png"
+image: "/assets/projects/BeMyPlatform/BMPMain.png"
 category: team
 ---
 
@@ -11,13 +11,13 @@ category: team
 {% include elements/video.html id="nRFadYxsSpw" %}
 
 {% capture carousel_images %}
-/assets/images/BeMyPlatform/BMP1.png
-/assets/images/BeMyPlatform/BMP2.png
-/assets/images/BeMyPlatform/BMP3.png
-/assets/images/BeMyPlatform/BMP4.png
-/assets/images/BeMyPlatform/BMP5.png
-/assets/images/BeMyPlatform/BMP6.png
-/assets/images/BeMyPlatform/BMP7.png
+/assets/projects/BeMyPlatform/BMP1.png
+/assets/projects/BeMyPlatform/BMP2.png
+/assets/projects/BeMyPlatform/BMP3.png
+/assets/projects/BeMyPlatform/BMP4.png
+/assets/projects/BeMyPlatform/BMP5.png
+/assets/projects/BeMyPlatform/BMP6.png
+/assets/projects/BeMyPlatform/BMP7.png
 {% endcapture %}
 {% include elements/carousel.html %}
 

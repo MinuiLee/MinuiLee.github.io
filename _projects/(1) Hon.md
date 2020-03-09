@@ -1,7 +1,7 @@
 ---
 name: Hon
 tools: [2D, Platformer, Custom Engine]
-image: "/assets/images/Hon/HonMain.jpg"
+image: "/assets/projects/Hon/HonMain.jpg"
 category: team
 ---
 
@@ -10,11 +10,11 @@ category: team
 {% include elements/video.html id="xVBztn5L4oQ" %}
 
 {% capture carousel_images %}
-/assets/images/Hon/Hon1.jpg
-/assets/images/Hon/Hon2.jpg
-/assets/images/Hon/Hon3.jpg
-/assets/images/Hon/Hon4.png
-/assets/images/Hon/Hon5.png
+/assets/projects/Hon/Hon1.jpg
+/assets/projects/Hon/Hon2.jpg
+/assets/projects/Hon/Hon3.jpg
+/assets/projects/Hon/Hon4.png
+/assets/projects/Hon/Hon5.png
 
 {% endcapture %}
 {% include elements/carousel.html %}
