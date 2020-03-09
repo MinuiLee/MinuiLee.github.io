@@ -21,17 +21,12 @@ category: team
 {% endcapture %}
 {% include elements/carousel.html %}
 
->Engine: Given engine
-
->Genre: Action
-
->Platform: PC
-
->Language: C++
-
->Team size: 3
-
->Mar 2018 - June 2018
+Engine: Given engine
+Genre: Action
+Platform: PC
+Language: C++
+Team size: 3
+Mar 2018 - June 2018
 
 <br/>
 
