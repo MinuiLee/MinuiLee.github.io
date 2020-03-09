@@ -11,14 +11,13 @@ category: team
 {% include elements/video.html id="nRFadYxsSpw" %}
 
 {% capture carousel_images %}
-![alt text]("/assets/images/BeMyPlatform/BMP1.png" "BMP1")
-<a href="/assets/images/BeMyPlatform/BMP1.png"><img src="/assets/images/BeMyPlatform/BMP1.png"></a>
-<a href="/assets/images/BeMyPlatform/BMP2.png"><img src="/assets/images/BeMyPlatform/BMP2.png"></a>
-<a href="/assets/images/BeMyPlatform/BMP3.png"><img src="/assets/images/BeMyPlatform/BMP3.png"></a>
-<a href="/assets/images/BeMyPlatform/BMP4.png"><img src="/assets/images/BeMyPlatform/BMP4.png"></a>
-<a href="/assets/images/BeMyPlatform/BMP5.png"><img src="/assets/images/BeMyPlatform/BMP5.png"></a>
-<a href="/assets/images/BeMyPlatform/BMP6.png"><img src="/assets/images/BeMyPlatform/BMP6.png"></a>
-<a href="/assets/images/BeMyPlatform/BMP7.png"><img src="/assets/images/BeMyPlatform/BMP7.png"></a>
+"/assets/images/BeMyPlatform/BMP1.png"
+"/assets/images/BeMyPlatform/BMP2.png"
+"/assets/images/BeMyPlatform/BMP3.png"
+"/assets/images/BeMyPlatform/BMP4.png"
+"/assets/images/BeMyPlatform/BMP5.png"
+"/assets/images/BeMyPlatform/BMP6.png"
+"/assets/images/BeMyPlatform/BMP7.png"
 {% endcapture %}
 {% include elements/carousel.html %}
 
