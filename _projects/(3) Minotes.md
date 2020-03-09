@@ -18,8 +18,8 @@ category: solo
 # Minotes
 {% include elements/button.html link="http://bit.ly/3cp62Vg" text="Download" %}
 
-###### Language: C\#
-###### Tool: Windows forms
+##### Language: C\#
+##### Tool: Windows forms
 
 Features:
 - Basic sticky note features(write, edit, remove and save)
