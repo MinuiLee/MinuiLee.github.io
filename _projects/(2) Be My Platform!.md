@@ -1,7 +1,7 @@
 ---
 name: Be My Platform!
 tools: [2D, Platformer]
-image: "/assets/images/test.png"
+image: http://bit.ly/2uwJpNe
 category: team
 ---
 
