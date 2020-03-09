@@ -1,24 +1,23 @@
 ---
 name: Be My Platform!
 tools: [2D, Platformer]
-image: http://bit.ly/2uwJpNe
+image: "/assets/images/BeMyPlatform/BMPMain.png"
 category: team
 ---
 
-<a href="/assets/images/test.png"><img src="/assets/images/test.png"></a>
 
 # Be My Platform
 
 {% include elements/video.html id="nRFadYxsSpw" %}
 
 {% capture carousel_images %}
-http://bit.ly/37YVXfd
-http://bit.ly/2v2NzwI
-http://bit.ly/2Sh0Zgy
-http://bit.ly/2vL5yba
-http://bit.ly/2un0OIz
-http://bit.ly/371k0J4
-http://bit.ly/2tsB4tJ
+<a href="/assets/images/BeMyPlatform/BMP1.png"><img src="/assets/images/BeMyPlatform/BMP1.png"></a>
+<a href="/assets/images/BeMyPlatform/BMP2.png"><img src="/assets/images/BeMyPlatform/BMP2.png"></a>
+<a href="/assets/images/BeMyPlatform/BMP3.png"><img src="/assets/images/BeMyPlatform/BMP3.png"></a>
+<a href="/assets/images/BeMyPlatform/BMP4.png"><img src="/assets/images/BeMyPlatform/BMP4.png"></a>
+<a href="/assets/images/BeMyPlatform/BMP5.png"><img src="/assets/images/BeMyPlatform/BMP5.png"></a>
+<a href="/assets/images/BeMyPlatform/BMP6.png"><img src="/assets/images/BeMyPlatform/BMP6.png"></a>
+<a href="/assets/images/BeMyPlatform/BMP7.png"><img src="/assets/images/BeMyPlatform/BMP7.png"></a>
 {% endcapture %}
 {% include elements/carousel.html %}
 

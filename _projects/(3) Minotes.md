@@ -1,17 +1,18 @@
 ---
 name: Minotes
 tools: [C#, Windows forms]
-image: http://bit.ly/2VRsiRI
+image: "/assets/images/Minotes/MinotesMain.png"
 category: solo
 ---
 
 {% capture carousel_images %}
-http://bit.ly/2VRsiRI
-http://bit.ly/2wqgOKC
-http://bit.ly/3au3WBS
-http://bit.ly/2VLK3lu
-http://bit.ly/39pporw
-http://bit.ly/3cpgv30
+<a href="/assets/images/Minotes/Minotes1.png"><img src="/assets/images/Minotes/Minotes1.png"></a>
+<a href="/assets/images/Minotes/Minotes2.png"><img src="/assets/images/Minotes/Minotes2.png"></a>
+<a href="/assets/images/Minotes/Minotes3.png"><img src="/assets/images/Minotes/Minotes3.png"></a>
+<a href="/assets/images/Minotes/Minotes4.png"><img src="/assets/images/Minotes/Minotes4.png"></a>
+<a href="/assets/images/Minotes/Minotes5.png"><img src="/assets/images/Minotes/Minotes5.png"></a>
+<a href="/assets/images/Minotes/Minotes6.png"><img src="/assets/images/Minotes/Minotes6.png"></a>
+
 {% endcapture %}
 {% include elements/carousel.html %}
 

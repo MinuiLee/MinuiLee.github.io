@@ -1,7 +1,7 @@
 ---
 name: Hon
 tools: [2D, Platformer, Custom Engine]
-image: http://bit.ly/2t2J5FG
+image: "/assets/images/Hon/HonMain.jpg"
 category: team
 ---
 
@@ -10,11 +10,12 @@ category: team
 {% include elements/video.html id="xVBztn5L4oQ" %}
 
 {% capture carousel_images %}
-http://bit.ly/36V6BlF
-http://bit.ly/2v1aTuG
-http://bit.ly/2OrNYzn
-http://bit.ly/2H09FlX
-http://bit.ly/36Vu7ze
+<a href="/assets/images/Hon/Hon1.jpg"><img src="/assets/images/Hon/Hon1.jpg"></a>
+<a href="/assets/images/Hon/Hon2.jpg"><img src="/assets/images/Hon/Hon2.jpg"></a>
+<a href="/assets/images/Hon/Hon3.jpg"><img src="/assets/images/Hon/Hon3.jpg"></a>
+<a href="/assets/images/Hon/Hon4.png"><img src="/assets/images/Hon/Hon4.png"></a>
+<a href="/assets/images/Hon/Hon5.png"><img src="/assets/images/Hon/Hon5.png"></a>
+
 {% endcapture %}
 {% include elements/carousel.html %}
 
