@@ -16,12 +16,14 @@ category: solo
 {% include elements/carousel.html %}
 
 # Minotes
-{% include elements/button.html link="http://bit.ly/3cp62Vg" text="Download" %}
+{% include elements/button.html link="\assets\Minotes.msi" text="Download" %}
 
 ##### Language: C\#
 ##### Tool: Windows forms
 
-Features:
+</br>
+
+#####Features:
 - Basic sticky note features(write, edit, remove and save)
 - Run at startup on a computer
 - Always on top
