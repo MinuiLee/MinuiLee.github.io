@@ -15,7 +15,7 @@ category: team
 /assets/projects/Hon/Hon3.jpg
 /assets/projects/Hon/Hon4.png
 /assets/projects/Hon/Hon5.png
-
+/assets/projects/Hon/Hon6.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
