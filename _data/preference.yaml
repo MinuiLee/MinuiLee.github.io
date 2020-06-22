@@ -1,0 +1,7 @@
+- name: Dog
+  percentage: 100
+  color: success
+
+- name: Cat
+  percentage: 100
+  color: info
