@@ -1,7 +1,2 @@
 - name: C++
-  percentage: 80
-  color: danger
-
 - name: C#
-  percentage: 60
-  color: dark
