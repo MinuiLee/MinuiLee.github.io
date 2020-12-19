@@ -8,8 +8,6 @@ category: solo
 # Speech Assistant
 
 ##### Language: Python<br/> 
-{% include elements/button.html link="\assets\projects\SpeechAssistant\minui_assistant.exe" text="Download" %}
-
 
 <br/>
 <br/>
