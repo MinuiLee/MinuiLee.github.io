@@ -1,2 +1,8 @@
 - name: C++
+  color: light
+
 - name: C#
+  color: light
+  
+- name: GLSL
+  color: light

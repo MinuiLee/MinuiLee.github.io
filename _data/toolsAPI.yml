@@ -1,9 +1,26 @@
 - name: Visual Studio
+  color: light
+
 - name: Unreal
+  color: light
+
 - name: Unity
+  color: light
+
 - name: ImGUI
+  color: light
+
 - name: FMOD
+  color: light
+
 - name: Git
+  color: light
+
 - name: SVN
+  color: light
+
 - name: GLFW
+  color: light
+  
 - name: Winforms
+  color: light

@@ -10,8 +10,11 @@ weight: 2
 Hello, my name is Minui Lee and I am currently a junior at Digipen institute of technology.<br>
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.softwares %}
+{% include about/skills.html title="Programming Languages" source=site.data.programming-skills %}
+</div>
+
+<div class="row">
+{% include about/skills.html title="Tools / API" source=site.data.toolsAPI %}
 </div>
 
 <div class="row">
