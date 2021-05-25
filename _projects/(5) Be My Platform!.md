@@ -21,6 +21,8 @@ category: team
 {% endcapture %}
 {% include elements/carousel.html %}
 
+<br/>
+
 ##### Engine: Given engine
 ##### Genre: Action
 ##### Platform: PC 

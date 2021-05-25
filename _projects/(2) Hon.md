@@ -19,6 +19,8 @@ category: team
 {% endcapture %}
 {% include elements/carousel.html %}
 
+<br/>
+
 ##### Engine: Custom Engine 
 ##### Genre: Action
 ##### Platform: PC

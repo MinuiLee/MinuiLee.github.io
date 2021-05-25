@@ -15,6 +15,8 @@ category: solo
 {% endcapture %}
 {% include elements/carousel.html %}
 
+<br/>
+
 # Minotes
 {% include elements/button.html link="\assets\projects\Minotes\Minotes.msi" text="Download" %}
 
