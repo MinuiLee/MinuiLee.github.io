@@ -8,7 +8,7 @@ category: solo
 {% capture carousel_images %}
 /assets/projects/OpenGL/Lighting.gif
 /assets/projects/OpenGL/ModelLoader.gif
-/assets/projects/OpenGL/SkyBox.gif
+/assets/projects/OpenGL/Skybox.gif
 /assets/projects/OpenGL/Reflection.gif
 {% endcapture %}
 {% include elements/carousel.html %}
@@ -23,5 +23,6 @@ category: solo
 <br/>
 
 ##### Features:
-- 
--
+- Loading and displaying geometry using OpenGL
+- Implementing Phong Illumination Model
+- Dynamic Reflection and Refraction with Cube Mapping
