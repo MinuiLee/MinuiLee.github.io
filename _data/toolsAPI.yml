@@ -7,6 +7,12 @@
 - name: Unity
   color: light
 
+- name: Maya
+  color: light
+
+- name: Winforms
+  color: light
+
 - name: ImGUI
   color: light
 
@@ -19,7 +25,10 @@
 - name: SVN
   color: light
 
-- name: GLFW
+- name: Perforce
+  color: light
+
+- name: GLFW, GLEW
   color: light
   
 - name: Winforms
