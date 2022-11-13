@@ -8,7 +8,7 @@ category: team
 
 # Be My Platform
 
-{% include elements/video.html id="nRFadYxsSpw" %}
+{% include elements/video.html id="DDm1efrs3KQ" %}
 
 {% capture carousel_images %}
 /assets/projects/BeMyPlatform/BMP1.png

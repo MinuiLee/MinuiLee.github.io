@@ -8,23 +8,22 @@ category: team
 
 # Marble
 
-{% include elements/video.html id="nRFadYxsSpw" %}
+{% include elements/video.html id="RY9HBNhdowc" %}
 
 
 <br/>
 
-##### Engine: Given engine
+##### Engine: Unity
 ##### Genre: Action
-##### Platform: PC 
-##### Language: C++
+##### Platform: Nintendo Switch 
+##### Language: C#
 ##### Team size: 3
-##### Mar 2018 - June 2018
+##### Nov 2021 - Dec 2021
 
 <br/>
 
 ### Description
 
-‘Be My Platform!’ is 2d cooperation game which has both top-down and platformer features at the same time. The players have to use their brain to avoid the obstacles and cooperate together to clear all the stages.
 
 <br/>
 <br/>
