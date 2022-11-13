@@ -1,6 +1,7 @@
 ---
 name: Marble
 tools: [3D, Unity, Nintendo Switch]
+image: "/assets/projects/Marble/MarbleMain.png"
 category: team
 ---
 
