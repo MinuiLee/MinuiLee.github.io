@@ -1,7 +1,6 @@
 ---
 name: Marble
 tools: [3D, Unity, Nintendo Switch]
-image: "/assets/projects/BeMyPlatform/BMPMain.png"
 category: team
 ---
 
