@@ -1,13 +1,10 @@
 - name: Visual Studio
   color: light
 
-- name: Unreal
+- name: UE4
   color: light
 
 - name: Unity
-  color: light
-
-- name: Maya
   color: light
 
 - name: Winforms
@@ -31,5 +28,8 @@
 - name: GLFW, GLEW
   color: light
   
-- name: Winforms
+- name: Consul
+  color: light
+
+- name: TeamCity
   color: light

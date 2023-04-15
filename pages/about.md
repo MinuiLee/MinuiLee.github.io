@@ -7,7 +7,7 @@ weight: 2
 
 # **About Me**
 
-Hello, my name is Minui Lee and I am currently a senior at DigiPen institute of technology.<br>
+Hello, my name is Minui Lee and I am an Associate Tools Programmer at Hi-Rez Studios.<br>
 
 <div class="row">
 {% include about/skills.html title="Programming Languages" source=site.data.programming-skills %}
@@ -29,5 +29,7 @@ Hello, my name is Minui Lee and I am currently a senior at DigiPen institute of 
 <br/>
 
 {% include elements/button.html link="https://minuilee.github.io/download/Resume.pdf" text="Download RESUME as pdf" block=true %}
+
+{% include elements/button.html link="https://minuilee.github.io/download/이력서.pdf" text="이력서 다운 받기" block=true %}
 
 <br/>
