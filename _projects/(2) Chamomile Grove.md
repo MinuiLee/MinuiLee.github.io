@@ -40,5 +40,5 @@ category: team
 
 ### What I worked on:
 - Built crafting and ticket system
-- Implemented storage system and inventory
-- Developed a third person view 3D character
+- Implemented storage and inventory system
+- Developed a third person view 3D character controller

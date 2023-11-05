@@ -17,7 +17,7 @@ category: solo
 
 # 3D Graphics Engine
 
-##### Language: C++
+##### Language: C++, GLSL
 ##### Tool: OpenGL, GLEW
 
 <br/>
@@ -25,4 +25,5 @@ category: solo
 ##### Features:
 - Loading and displaying geometry using OpenGL
 - Implementing Phong Illumination Model
+- Deferred Shading and point, directional, spotlight
 - Dynamic Reflection and Refraction with Cube Mapping
