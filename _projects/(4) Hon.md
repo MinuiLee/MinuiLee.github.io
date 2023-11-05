@@ -35,3 +35,11 @@ category: team
 Hon is a 2D platform action game. The player, ghost, has to fight and explore to earn souls in a haunted castle where every object is alive. Use different attack motions and explore one giant map to collect enough souls for his rebirth and be careful of losing them since it is also his life. 
 <br/>
 <br/>
+
+
+### What I worked on:
+- Used a batch file and Jenkins to build the game in different platforms automatically.
+- Designed and developed runtime level editor tool from scratch.
+- Integrated FMOD Studio to the custom engine and developed audio system.
+- Implemented 3 different types of enemies.
+- Developed JSON parser to save and load game data

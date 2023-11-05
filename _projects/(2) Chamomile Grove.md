@@ -35,6 +35,10 @@ category: team
 ### Description
 
 ‘Chamomile Grove’ is a 3D farming, crafting, puzzle/exploration game as a young sorceress who finds herself as the caretaker of a dying forest. Plant and grow crops for potion crafting that will enable you to complete puzzles in search for new flora and fauna. Accept quests that will open new potion elements and puzzle areas that will further her goals towards saving this ancient wood.
+<br/>
+<br/>
 
-<br/>
-<br/>
+### What I worked on:
+- Built crafting and ticket system
+- Implemented storage system and inventory
+- Developed a third person view 3D character

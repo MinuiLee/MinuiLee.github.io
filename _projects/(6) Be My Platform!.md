@@ -23,7 +23,7 @@ category: team
 
 <br/>
 
-##### Engine: Given engine
+##### Engine: Custom Engine
 ##### Genre: Action
 ##### Platform: PC 
 ##### Language: C++
@@ -35,6 +35,10 @@ category: team
 ### Description
 
 ‘Be My Platform!’ is 2d cooperation game which has both top-down and platformer features at the same time. The players have to use their brain to avoid the obstacles and cooperate together to clear all the stages.
+<br/>
+<br/>
 
-<br/>
-<br/>
+### What I worked on:
+- Programmed 2d platformer player controller
+- Created game levels
+- Implemented all game UIs and menus
