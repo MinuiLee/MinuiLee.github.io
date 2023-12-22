@@ -28,6 +28,6 @@ Hello, my name is Minui Lee and I am an Associate Tools Programmer at Hi-Rez Stu
 <br/>
 <br/>
 
-{% include elements/button.html link="https://minuilee.github.io/download/Resume.pdf" text="Download RESUME as pdf" block=true %}
+{% include elements/button.html link="https://minuilee.github.io/download/이력서.pdf" text="Download RESUME as pdf" block=true %}
 
 <br/>
